@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Nicolas Boyer, tech director and co-founder of <a href="https://agence.niwee.fr" target="_blank">NiWee Productions</a>.
+I'm Nicolas Boyer, tech director and co-founder of <a href="https://agence.niwee.fr" target="_blank">NiWee Productions</a>. We are a web agency trying to offer quality services without breaking your bank.
 
-## I love :
+## I love
 * Devops
 * Web Development
 * New Tools
@@ -12,16 +12,31 @@ I'm Nicolas Boyer, tech director and co-founder of <a href="https://agence.niwee
 * Music
 
 
-## I hate :
-* Mac OS
+## I hate
+* Overpriced Hardware
 * Procrastination
 * Excuses
-* OVH
 
-## I work on :
-* Windows WSL2
-* Fedora
-* Manjaro
-* Garuda
-* Endeavor
-* Ubuntu
+## I work on
+* Systems: 
+  * Windows w/ WSL2
+  * Mac OS
+  * Linux
+    * Distributions: 
+      * Fedora
+      * Manjaro
+      * Garuda
+      * Endeavor
+      * Ubuntu
+    * Display Managers: 
+      * Gnome
+      * Cutefish
+      * Deepin
+* IDEs:
+  * Visual Studio Code
+  * Intelliji: 
+    * PHPStorm
+    * Webstorm
+
+## I work with
+* <a href="" target="_blank">Wilfried Rolland</a>
