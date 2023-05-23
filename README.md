@@ -45,25 +45,29 @@ I'm Nicolas Boyer. I'm a developer/devops.
 
 ## Languages/Libraries/Frameworks
 * PHP
- * Frameworks:
-  * Symfony
-  * Laravel
-  * Codeigniter
+  * Frameworks:
+    * Symfony
+    * Laravel
+    * Codeigniter
 * Javascript (ES6):
- * Libraries
-  * React  
- * Frameworks
-  * Vue 
-  * Nuxt
-  * Docusaurus
- * CMS
-  * Strapi
- * Compilers
-  * Webpack
-  * ViteJS
-  * Gulp
-  * Grunt
+  * Libraries
+    * React  
+    * Some Vue
+    * Some Svelte
+  * Frameworks
+    * NextJS 
+    * NuxtJS
+    * Docusaurus
+  * CMS
+    * Strapi
+  * Compilers
+    * Webpack
+    * ViteJS
+    * Gulp
+    * Grunt
 * SCSS
+* TailwindCSS
+* Bootstrap
 * Bash
 * JSON
 * YAML
