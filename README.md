@@ -38,9 +38,8 @@ I'm Nicolas Boyer, tech director and co-founder of <a href="https://agence.niwee
     * PHPStorm
     * Webstorm
 
-## I work with
+## Friends
 * <a href="https://github.com/Willdeveloppeur" target="_blank">Wilfried Rolland</a>
-* <a href="https://github.com/thomas-frank-dev" target="_blank">Frank Thomas</a>
 * <a href="https://github.com/willfrnds6" target="_blank">William Fernandes</a>
 * <a href="https://github.com/fhierony" target="_blank">Frederick Hieronymus</a>
 
