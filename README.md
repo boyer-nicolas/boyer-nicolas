@@ -43,18 +43,26 @@ I'm Nicolas Boyer. I'm a developer/devops.
 * <a href="https://github.com/willfrnds6" target="_blank">William Fernandes</a>
 * <a href="https://github.com/fhierony" target="_blank">Frederick Hieronymus</a>
 
-## Languages
+## Languages/Libraries/Frameworks
 * PHP
+ * Frameworks:
+  * Symfony
+  * Laravel
+  * Codeigniter
 * Javascript (ES6):
+ * Libraries
+  * React  
  * Frameworks
-  * React
   * Vue 
   * Nuxt
-  * Strapi
   * Docusaurus
+ * CMS
+  * Strapi
  * Compilers
   * Webpack
   * ViteJS
+  * Gulp
+  * Grunt
 * SCSS
 * Bash
 * JSON
