@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Nicolas Boyer, tech director and co-founder of <a href="https://agence.niwee.fr" target="_blank">NiWee Productions</a>. We are a web agency trying to offer quality services without breaking your bank.
+I'm Nicolas Boyer. I'm a developer/devops.
 
 ## I love
 * Devops
