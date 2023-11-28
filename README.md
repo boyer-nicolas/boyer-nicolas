@@ -7,15 +7,13 @@ I'm Nicolas Boyer. I'm a developer/devops.
 * Web Development
 * New Tools
 * Productivity
-* Beer
 * Coffee
 * Music
 
 
-## I hate
+## I dislike
 * Overpriced Hardware
-* Procrastination
-* Excuses
+* Unlinted, Untyped Javascript
 
 ## I work on
 * Systems: 
@@ -28,6 +26,7 @@ I'm Nicolas Boyer. I'm a developer/devops.
       * Garuda
       * Endeavor
       * Ubuntu
+      * Debian
     * Display Managers: 
       * Gnome
       * Cutefish
@@ -57,17 +56,20 @@ I'm Nicolas Boyer. I'm a developer/devops.
   * Frameworks
     * NextJS 
     * NuxtJS
-    * Docusaurus
   * CMS
     * Strapi
+    * Docusaurus
+    * Hygraph
   * Compilers
     * Webpack
     * ViteJS
     * Gulp
     * Grunt
+  * Data Source
+    * Firebase
+    * Supabase 
 * SCSS
 * TailwindCSS
-* Bootstrap
 * Bash
 * JSON
 * YAML
