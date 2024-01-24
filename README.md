@@ -27,6 +27,7 @@ I'm Nicolas Boyer. I'm a developer/devops.
       * Endeavor
       * Ubuntu
       * Debian
+      * Pop!OS
     * Display Managers: 
       * Gnome
       * Cutefish
