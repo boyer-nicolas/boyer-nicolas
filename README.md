@@ -38,7 +38,6 @@ I'm Nicolas Boyer. I'm a developer/devops.
     * Webstorm
 
 ## Friends
-* <a href="https://github.com/Willdeveloppeur" target="_blank">Wilfried Rolland</a>
 * <a href="https://github.com/willfrnds6" target="_blank">William Fernandes</a>
 * <a href="https://github.com/fhierony" target="_blank">Frederick Hieronymus</a>
 
