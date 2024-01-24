@@ -37,6 +37,11 @@ I'm Nicolas Boyer. I'm a developer/devops.
   * Intelliji: 
     * PHPStorm
     * Webstorm
+    * Datagrip
+    * Aqua
+    * Goland
+    * Fleet
+    * IDEA
 
 ## Friends
 * <a href="https://github.com/willfrnds6" target="_blank">William Fernandes</a>
