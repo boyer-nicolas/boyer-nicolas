@@ -47,6 +47,9 @@ I'm Nicolas Boyer. I'm a developer/devops.
     * Symfony
     * Laravel
     * Codeigniter
+  * CMS
+    * Wordpress
+    * Drupal
 * Javascript (ES6):
   * Libraries
     * React  
@@ -55,6 +58,7 @@ I'm Nicolas Boyer. I'm a developer/devops.
   * Frameworks
     * NextJS 
     * NuxtJS
+    * Nest.js
   * CMS
     * Strapi
     * Docusaurus
@@ -66,7 +70,10 @@ I'm Nicolas Boyer. I'm a developer/devops.
     * Grunt
   * Data Source
     * Firebase
-    * Supabase 
+    * Supabase
+    * PostgreSQL
+    * MySQL
+    * MongoDB
 * SCSS
 * TailwindCSS
 * Bash
