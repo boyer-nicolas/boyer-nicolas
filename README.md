@@ -65,6 +65,7 @@ I'm Nicolas Boyer. I'm a developer/devops.
     * NextJS 
     * NuxtJS
     * Nest.js
+    * AstroJS
   * CMS
     * Strapi
     * Docusaurus
