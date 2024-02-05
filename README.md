@@ -56,6 +56,8 @@ I'm Nicolas Boyer. I'm a developer/devops.
   * CMS
     * Wordpress
     * Drupal
+* Java
+    * Quarkus 
 * Javascript (ES6):
   * Libraries
     * React  
