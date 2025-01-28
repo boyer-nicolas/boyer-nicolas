@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/nicolasboyer"><img src="https://api.daily.dev/devcards/v2/709FBzGK6Ha9FoaA2vFJ4.png?type=default&r=6pz" width="356" alt="Nicolas Boyer's Dev Card"/></a>
+
 # Hi there 👋
 
 I'm Nicolas Boyer. I'm a developer/devops.
