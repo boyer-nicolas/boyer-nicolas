@@ -1,29 +1,21 @@
 <a href="https://app.daily.dev/nicolasboyer"><img src="https://api.daily.dev/devcards/v2/709FBzGK6Ha9FoaA2vFJ4.png?type=default&r=6pz" width="356" alt="Nicolas Boyer's Dev Card"/></a>
 
 # Hi there 👋
-
-I'm Nicolas Boyer. I'm a developer/devops.
+I'm a Platform Engineer [@Egen (Formerly Qarik)](https://www.egen.ai/).
 
 ## I love
-* Devops
-* Web Development
-* New Tools
+* Cloud Engineering
+* Open Source
 * Productivity
-* Coffee
-* Music
-
-
-## I dislike
-* Overpriced Hardware
-* Unlinted, Untyped Javascript
+* Heavy Music
 
 ## I work on
-* Systems: 
-  * Windows w/ WSL2
-  * Mac OS
+* Systems:
+  * Mac OS 
   * Linux
-    * Distributions: 
+    * Distros: 
       * Fedora
+      * Nobara
       * Manjaro
       * Garuda
       * Endeavor
@@ -32,12 +24,10 @@ I'm Nicolas Boyer. I'm a developer/devops.
       * Pop!OS
     * Display Managers: 
       * Gnome
-      * Cutefish
-      * Deepin
+      * KDE
 * IDEs:
   * Visual Studio Code
   * Intelliji: 
-    * PHPStorm
     * Webstorm
     * Datagrip
     * Aqua
@@ -50,6 +40,31 @@ I'm Nicolas Boyer. I'm a developer/devops.
 * <a href="https://github.com/fhierony" target="_blank">Frederick Hieronymus</a>
 
 ## Languages/Libraries/Frameworks
+* GoLang
+    * Echo
+    * Gin
+    * Chi 
+* Java
+    * Quarkus
+* TypeScript:
+  * Frameworks
+    * SvelteKit
+    * NextJS
+    * Hono
+    * Elysia
+  * Static Site Builders
+    * Docusaurus
+    * VitePress
+  * Compilers
+    * Vite
+  * Data Sources
+    * PostgreSQL
+    * MySQL
+    * MariaDB 
+    * Firebase
+    * Supabase
+    * PocketBase
+    * Strapi
 * PHP
   * Frameworks:
     * Symfony
@@ -58,35 +73,7 @@ I'm Nicolas Boyer. I'm a developer/devops.
   * CMS
     * Wordpress
     * Drupal
-* Java
-    * Quarkus 
-* Javascript (ES6):
-  * Libraries
-    * React  
-    * Some Vue
-    * Some Svelte
-  * Frameworks
-    * NextJS 
-    * NuxtJS
-    * Nest.js
-    * AstroJS
-  * CMS
-    * Strapi
-    * Docusaurus
-    * Hygraph
-  * Compilers
-    * Webpack
-    * ViteJS
-    * Gulp
-    * Grunt
-  * Data Source
-    * Firebase
-    * Supabase
-    * PostgreSQL
-    * MySQL
-    * MongoDB
 * SCSS
 * TailwindCSS
-* Bash
 * JSON
 * YAML
